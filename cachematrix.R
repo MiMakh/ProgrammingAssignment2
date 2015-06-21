@@ -1,6 +1,4 @@
 
-
-
 ## Solve for an inverse matrix of a given matrix, however firstly it checks whether it was computed before
 ## First it sets the given matrix in universe, then it gets it, then it sets its mean and gets the mean
 
